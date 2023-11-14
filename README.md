@@ -1,6 +1,6 @@
-# Horiseon Code refractor
+# Horiseon Code-refactor
 
-## Help Horiseon website to follow accesbility standards improving the site's visibility, discoverability and user experience
+## Help Horiseon website to follow accessbility standards improving the site's visibility, discoverability and user experience
 
 This project was to help marketing agency HORISEON follow accessibility standards so that this site is more optimised for search engine and make more easier for users know it's great features.
 By presenting information in more structured and visually appealing manner, using semantic HTML helps convey information effectively. Making the website more favourable by search engines and user accessiblity.
