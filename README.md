@@ -12,10 +12,11 @@ This project helps learn:
                         .5 Better look on how to make well structured and accesible website
 
  ## Installation guide          
- To use the website just go to this link.  https://saugatgurung20.github.io/code-referactor/
+ To use the website just go to this link.  https://saugatgurung20.github.io/code-refactor/
 
  ## Usage
- You can access through this link. https://saugatgurung20.github.io/code-referactor/
+ You can access through this link. https://saugatgurung20.github.io/code-refactor/
+
  Then you will see the following screenshot and the services the Horiseon Marketing Agency provides
  ![Screenshot 1](<assets/images/website image 1.jpg>)
  ![Screenshot 2](<assets/images/website image 2.jpg>)
